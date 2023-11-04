@@ -1,2 +1,2 @@
-THIS IS A GENERAL KNOWLEDGE QUIZ.<BR>
+THIS QUIZ CONTAINS DIFFERENT TOPICS.<BR>
 https://khyatisxn.github.io/quiz/
